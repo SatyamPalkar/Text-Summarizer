@@ -1,0 +1,4 @@
+unset CONDA_EXE CONDA_ROOT CONDA_PYTHON_EXE
+
+source /c/Users/satya/anaconda3/etc/profile.d/conda.sh
+conda activate base
